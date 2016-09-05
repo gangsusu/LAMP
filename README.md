@@ -1,5 +1,6 @@
 # LAMP
 一键安装LAMP（PHP5.3）
+
 默认Apache目录 /ml/server/apache
 默认MySQL目录 /ml/server/mysql
 默认PHP目录 /ml/server/php
