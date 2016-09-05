@@ -1,0 +1,2 @@
+# LAMP
+一键安装LAMP（PHP5.3）
